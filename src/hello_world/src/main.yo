@@ -1,0 +1,9 @@
+#[app::classname("Hello_World")]
+#[app::wait(true)]
+
+include 'ystdio'
+
+func main()
+{
+  io::println("Hello world")
+}

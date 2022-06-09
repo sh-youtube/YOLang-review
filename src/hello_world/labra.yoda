@@ -1,0 +1,7 @@
+!![
+"assemblyname"   =   "hello_world"   ,
+"outputtype"   =   "console"   ,
+"projectframework"   =   ".netframework"   ,
+"sourcepath"   =   "\src"   ,
+"assetspath"   =   "\assets"   
+]
